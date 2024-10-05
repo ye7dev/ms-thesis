@@ -26,7 +26,7 @@
 ---
 #### 실행 방법 
   1. 환경 설정 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
   2. 편향 탐지 프롬프트 생성
