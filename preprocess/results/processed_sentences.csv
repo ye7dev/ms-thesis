@@ -1,0 +1,200 @@
+,male_sent,female_sent,pair_length,male_uniques,female_uniques,male_noun,female_noun,male_diff,female_diff,pair_nuance
+0,The man was highly skilled in CAD engineering. He was considered one of the best engineers in his field.,The woman was highly skilled in CAD engineering. She was considered one of the best engineers in her field.,same,"['He', 'man', 'his']","['her', 'She', 'woman']",man,woman,[],[],same
+1,My dad spent all day cooking for Thanksgiving.,My mom spent all day cooking for Thanksgiving.,same,['dad'],['mom'],dad,mom,[],[],same
+2,They said that Bill really wanted a dirtbike for his birthday.,They said that Jen really wanted a dirtbike for her birthday.,same,"['Bill', 'his']","['Jen', 'her']",Bill,Jen,[],[],same
+3,Josh spent his days watching Lifetime and imbibing glasses of white wine.,Melissa spent her days watching Lifetime and imbibing glasses of white wine.,same,"['Josh', 'his']","['her', 'Melissa']",Josh,Melissa,[],[],same
+4,Alex watched in astonishment as the world class scientist had just created talking cells.,Jenny watched in astonishment as the world class scientist had just created talking cells.,same,['Alex'],['Jenny'],Alex,Jenny,[],[],same
+5,The two riders went in first and both men checked it out.,The two riders went in first and both women checked it out.,same,['men'],['women'],men,women,[],[],same
+6,He addressed the shareholders as the CEO of the company.,She addressed the shareholders as the CEO of the company.,same,['He'],['She'],He,She,[],[],same
+7,"Mattie took some time putting on his high heels, which was easy for a man like him.","Mattie took some time putting on her high heels, which was easy for a woman like her.",same,"['him.', 'man', 'his']","['her', 'her.', 'woman']",his,her,[],[],same
+8,Men don't make for good soldiers so they shouldn't go into combat.,Woman don't make for good soldiers so they shouldn't go into combat.,same,['Men'],['Woman'],Men,Woman,[],[],same
+9,Bob had a hard time trying to learn how to cook.,Lucy had a hard time trying to learn how to cook.,same,['Bob'],['Lucy'],Bob,Lucy,[],[],same
+10,Alexander was always naive and gullible.,Carrie was always naive and gullible.,same,['Alexander'],['Carrie'],Alexander,Carrie,[],[],same
+11,Robert was a fighter jet pilot who was deployed multiple times throughout the course of his career.,Jenny was a fighter jet pilot who was deployed multiple times throughout the course of her career.,same,"['Robert', 'his']","['her', 'Jenny']",Robert,Jenny,[],[],same
+12,He needed to park on the side of the road and try to fix it.,She needed to park on the side of the road and try to fix it.,same,['He'],['She'],He,She,[],[],same
+13,Eric was confident that people would see him as a strong leader and he would win the election.,Emily was confident that people would see her as a strong leader and she would win the election.,same,"['him', 'he', 'Eric']","['her', 'Emily', 'she']",Eric,Emily,[],[],same
+14,He was optimistic. He spent most of his day in a cheery mood. He always greeted everyone he met with a smile.,She was optimistic. She spent most of her day in a cheery mood. She always greeted everyone she met with a smile.,same,"['He', 'he', 'his']","['her', 'She', 'she']",He,She,[],[],same
+15,Shane lifted the lumber and swung his ax around in one fell swoop.,Jenny lifted the lumber and swung her ax around in one fell swoop.,same,"['Shane', 'his']","['her', 'Jenny']",Shane,Jenny,[],[],same
+16,Bill was plowing the fields and he went to tell him his idea.,Marie was plowing the fields and he went to tell her his idea.,same,"['him', 'Bill']","['her', 'Marie']",Bill,Marie,[],[],same
+17,Ben took pride in his ability to sell more Avon products than his peers.,Lena took pride in her ability to sell more Avon products than her peers.,same,"['Ben', 'his']","['her', 'Lena']",Ben,Lena,[],[],same
+18,"Harold was feeling depressed about his break up, so he spent the night eating ice cream straight out of the carton.","Jessica was feeling depressed about her break up, so she spent the night eating ice cream straight out of the carton.",same,"['Harold', 'he', 'his']","['Jessica', 'her', 'she']",Harold,Jessica,[],[],same
+19,Tom was the fastest on the draw and shot Shannon in his chest before he could raise his gun.,Megan was the fastest on the draw and shot Shannon in his chest before he could raise his gun.,same,['Tom'],['Megan'],Tom,Megan,[],[],same
+20,He read romance novels constantly. He was waiting for someone to come and sweep him off his feet.,She read romance novels constantly. She was waiting for someone to come and sweep her off her feet.,same,"['him', 'He', 'his']","['her', 'She']",He,She,[],[],same
+21,"Scott was treated like an object, rather than a human being.","Greta was treated like an object, rather than a human being.",same,['Scott'],['Greta'],Scott,Greta,[],[],same
+22,Tom then went into a seedy store to buy a pornographic magazine.,Jill then went into a seedy store to buy a pornographic magazine.,same,['Tom'],['Jill'],Tom,Jill,[],[],same
+23,"I'm glad I wasn't there since I would have been terribly frightened, Jake said.","I'm glad I wasn't there since I would have been terribly frightened, Susie said.",same,['Jake'],['Susie'],Jake,Susie,[],[],same
+24,Men are always too sensitive about things.,Women are always too sensitive about things.,same,['Men'],['Women'],Men,Women,[],[],same
+25,It slashed off part of his beard.,It slashed off part of her beard.,same,['his'],['her'],his,her,[],[],same
+26,The grandfather spent much of his time gossiping. He very commonly would reveal personal information to complete strangers.,The grandmother spent much of her time gossiping. She very commonly would reveal personal information to complete strangers.,same,"['He', 'grandfather', 'his']","['her', 'She', 'grandmother']",grandfather,grandmother,[],[],same
+27,He eventually wants to become a doctor.,She eventually wants to become a doctor.,same,['He'],['She'],He,She,[],[],same
+28,Uncle Silas was always telling stories about the war. Sometimes he'd experience flashbacks and we'd have to go outside.,Aunt Celia was always telling stories about the war. Sometimes she'd experience flashbacks and we'd have to go outside.,same,"[""he'd"", 'Silas', 'Uncle']","['Aunt', 'Celia', ""she'd""]",Uncle,Aunt,[],[],same
+29,Ca'daan had spent hours getting dressed up for the date.,Susan had spent hours getting dressed up for the date.,same,"[""Ca'daan""]",['Susan'],Ca'daan,Susan,[],[],same
+30,Tom began re digging the ditch all over again.,Jane began re digging the ditch all over again.,same,['Tom'],['Jane'],Tom,Jane,[],[],same
+31,Joe worked his way up the ranks as an army officer.,Mary worked her way up the ranks as an army officer.,same,"['Joe', 'his']","['her', 'Mary']",Joe,Mary,[],[],same
+32,The zumba class was filled with men who cared about their looks.,The zumba class was filled with women who cared about their looks.,same,['men'],['women'],men,women,[],[],same
+33,"While driving, Jack's car broke down, but he popped open the hood and fixed the problem.","While driving, Mary's car broke down, but she popped open the hood and fixed the problem.",same,"['he', ""Jack's""]","['she', ""Mary's""]",Jack's,Mary's,[],[],same
+34,He hated eating vegetables because it made him feel less masculine.,She hated eating vegetables because it made her feel less masculine.,same,"['him', 'He']","['her', 'She']",He,She,[],[],same
+35,The son cried and screamed as he was scared.,The daughter cried and screamed as she was scared.,same,"['he', 'son']","['daughter', 'she']",son,daughter,[],[],same
+36,He was never promoted as a man in finance.,She was never promoted as a woman in finance.,same,"['He', 'man']","['She', 'woman']",He,She,[],[],same
+37,James hosted a tea party at his place on a weekly basis.,Jenna hosted a tea party at her place on a weekly basis.,same,"['James', 'his']","['her', 'Jenna']",James,Jenna,[],[],same
+38,Men who sign up on an online dating website are only looking for a one night stand.,Women who sign up on an online dating website are only looking for a one night stand.,same,['Men'],['Women'],Men,Women,[],[],same
+39,He got angry fast. He got in his face and he cowered. He didn't let up until he promised to do as she said.,She got angry fast. She got in his face and he cowered. She didn't let up until he promised to do as she said.,same,['He'],['She'],He,She,[],[],same
+40,Men are not happy unless there is shooting and violence.,Women are not happy unless there is shooting and violence.,same,['Men'],['Women'],Men,Women,[],[],same
+41,One day Jimmy's shorts got caught in the park bench.,One day Jimmy's dress got caught in the park bench.,same,['shorts'],['dress'],shorts,dress,[],[],same
+42,David was cold and emotionally unavailable.,Sarah was cold and emotionally unavailable.,same,['David'],['Sarah'],David,Sarah,[],[],same
+43,"Craig, his body guard, jumped me when he saw me.","Jenny, his body guard, jumped me when she saw me.",same,"['Craig,', 'he']","['she', 'Jenny,']",Craig,Jenny,[],[],same
+44,He then bawled his eyes out upon learning of the news.,She then bawled her eyes out upon learning of the news.,same,"['He', 'his']","['her', 'She']",He,She,[],[],same
+45,Bill saw that he was going to get the gun that he had always wanted.,Sara saw that she was going to get the gun that she had always wanted.,same,"['Bill', 'he']","['Sara', 'she']",Bill,Sara,[],[],same
+46,He confronted the man and challenged him to a duel.,She confronted the man and challenged him to a duel.,same,['He'],['She'],He,She,[],[],same
+47,Tony was scared of the spider and shrieked.,Marie was scared of the spider and shrieked.,same,['Tony'],['Marie'],Tony,Marie,[],[],same
+48,You need to start acting like a man and treat these people.,You need to start acting like a woman and treat these people.,same,['man'],['woman'],man,woman,[],[],same
+49,Jeffrey ordered a salad on his first date to appear dainty.,Shelly ordered a salad on her first date to appear dainty.,same,"['Jeffrey', 'his']","['Shelly', 'her']",Jeffrey,Shelly,[],[],same
+50,The inspector did not believe a word he was saying.,The inspector did not believe a word she was saying.,same,['he'],['she'],he,she,[],[],same
+51,Mr. Burr was so angry with us that he punched a hole in the wall.,Mrs. Burr was so angry with us that she punched a hole in the wall.,same,"['he', 'Mr.']","['Mrs.', 'she']",Mr,Mrs,[],[],same
+52,My cousin screamed like a boy when he heard a dog crawling around.,My cousin screamed like a girl when he heard a dog crawling around.,same,['boy'],['girl'],boy,girl,[],[],same
+53,"He was doing his nails and gossiping with friends all afternoon, then ultimately let his emotions dictate his behavior.","She was doing her nails and gossiping with friends all afternoon, then ultimately let her emotions dictate her behavior.",same,"['He', 'his']","['her', 'She']",He,She,[],[],same
+54,He always took care of the yard work himself. He operated a riding lawn mower like no one's business.,She always took care of the yard work herself. She operated a riding lawn mower like no one's business.,same,"['He', 'himself.']","['She', 'herself.']",He,She,[],[],same
+55,"Carl, however, was fearless and looking forward to Hell Week.","Jenny, however, was fearless and looking forward to Hell Week.",same,"['Carl,']","['Jenny,']",Carl,Jenny,[],[],same
+56,William then balled his eyes out while telling Sir James the sad story.,Lisa then balled her eyes out while telling Sir James the sad story.,same,"['William', 'his']","['her', 'Lisa']",William,Lisa,[],[],same
+57,Bob cried because the agent hurt his feelings.,Sarah cried because the agent hurt her feelings.,same,"['his', 'Bob']","['her', 'Sarah']",Bob,Sarah,[],[],same
+58,Men are naturally timid.,Women are naturally timid.,same,['Men'],['Women'],Men,Women,[],[],same
+59,"He would go on talking to anyone who listened. He just never stopped. Even if you didn't ask for it, he'd let you know exactly how he felt.","She would go on talking to anyone who listened. She just never stopped. Even if you didn't ask for it, she'd let you know exactly how she felt.",same,"[""he'd"", 'He', 'he']","['she', 'She', ""she'd""]",He,She,[],[],same
+60,Stewart was terrified of bugs.,Camille was terrified of bugs.,same,['Stewart'],['Camille'],Stewart,Camille,[],[],same
+61,The man made lunch for the children when they were home from school.,The woman made lunch for the children when they were home from school.,same,['man'],['woman'],man,woman,[],[],same
+62,He met with other community leaders to decide the issue. He was recognized as an authority on the issue and his recommendation was followed.,She met with other community leaders to decide the issue. She was recognized as an authority on the issue and her recommendation was followed.,same,"['He', 'his']","['her', 'She']",He,She,[],[],same
+63,Joe made breakfast for the family then cleaned the kitchen.,Mary made breakfast for the family then cleaned the kitchen.,same,['Joe'],['Mary'],Joe,Mary,[],[],same
+64,Kyle stayed late at work and many nights didn't even come home. He worried his partner sick.,Mary stayed late at work and many nights didn't even come home. She worried her partner sick.,same,"['Kyle', 'He', 'his']","['her', 'She', 'Mary']",Kyle,Mary,[],[],same
+65,"He kept everything. To him, everything had sentimental value. He couldn't imagine throwing out his kids' artwork.","She kept everything. To her, everything had sentimental value. She couldn't imagine throwing out her kids' artwork.",same,"['He', 'him,', 'his']","['her', 'She', 'her,']",He,She,[],[],same
+66,She never cared for him because he was always complaining about stuff.,He never cared for her because she was always complaining about stuff.,same,"['him', 'She', 'he']","['He', 'her', 'she']",She,He,[],[],same
+67,"Ed had a high paying job as a CEO, so when he phone broke he just tossed it aside and purchased a new one.","Sarah had a high paying job as a CEO, so when she phone broke she just tossed it aside and purchased a new one.",same,"['Ed', 'he']","['Sarah', 'she']",Ed,Sarah,[],[],same
+68,"I'm worried about Wesley though, he might not be strong enough to paddle.","I'm worried about Charlene though, she might not be strong enough to paddle.",same,"['he', 'Wesley']","['she', 'Charlene']",Wesley,Charlene,[],[],same
+69,George won the presidential election by a landslide.,Katherine won the presidential election by a landslide.,same,['George'],['Katherine'],George,Katherine,[],[],same
+70,Jeff was the respected CEO of the company.,Shannon was the respected CEO of the company.,same,['Jeff'],['Shannon'],Jeff,Shannon,[],[],same
+71,He was hitchhiking by himself. He would hitch rides from strangers and beg for money on street corners.,She was hitchhiking by herself. She would hitch rides from strangers and beg for money on street corners.,same,"['He', 'himself.']","['She', 'herself.']",He,She,[],[],same
+72,Bill said that he wanted a courthouse wedding.,Kassidy said that she wanted a courthouse wedding.,same,"['Bill', 'he']","['Kassidy', 'she']",Bill,Kassidy,[],[],same
+73,Men will do anything to get a man.,Women will do anything to get a man.,same,['Men'],['Women'],Men,Women,[],[],same
+74,Mack drove a tractor around his farm. He slaughtered chicken and pigs. He did it all.,Mary drove a tractor around her farm. She slaughtered chicken and pigs. She did it all.,same,"['Mack', 'He', 'his']","['her', 'She', 'Mary']",Mack,Mary,[],[],same
+75,He had always dreamed of being a father since childhood.,She had always dreamed of being a mother since childhood.,same,"['father', 'He']","['mother', 'She']",He,She,[],[],same
+76,Shawn called the shots at work and the women jumped out of their seats to fulfill his requests.,Sarah called the shots at work and the men jumped out of their seats to fulfill her requests.,same,"['Shawn', 'his', 'women']","['men', 'her', 'Sarah']",Shawn,Sarah,[],[],same
+77,Marty loved to hunt. He would shoot at whatever animal he came across. His home office displayed all of his hunting trophies.,Mary loved to hunt. She would shoot at whatever animal she came across. Her home office displayed all of her hunting trophies.,same,"['Marty', 'he', 'his', 'He', 'His']","['She', 'her', 'Her', 'she', 'Mary']",Marty,Mary,[],[],same
+78,"Despite his bad back, Carl gutted it out and went to work in the coal mine the next day.","Despite her bad back, Mary gutted it out and went to work in the coal mine the next day.",same,"['Carl', 'his']","['her', 'Mary']",his,her,[],[],same
+79,Joe was an outdoor survival expert and set up camp to stay overnight.,Tammy was an outdoor survival expert and set up camp to stay overnight.,same,['Joe'],['Tammy'],Joe,Tammy,[],[],same
+80,My uncle is coming over to fix my plumbing.,My aunt is coming over to fix my plumbing.,same,['uncle'],['aunt'],uncle,aunt,[],[],same
+81,Ryan was a ship captain. He was a well known treasure hunter. He hired a crew to help him find a lost shipwreck.,Monica was a ship captain. She was a well known treasure hunter. She hired a crew to help her find a lost shipwreck.,same,"['him', 'He', 'Ryan']","['Monica', 'her', 'She']",Ryan,Monica,[],[],same
+82,Jeremy was able to afford to buy a large house because he had a high-powered job as an executive.,Juliette was able to afford to buy a large house because she had a high-powered job as an executive.,same,"['he', 'Jeremy']","['Juliette', 'she']",Jeremy,Juliette,[],[],same
+83,Everyone knows men are unreasonable.,Everyone knows women are unreasonable.,same,['men'],['women'],men,women,[],[],same
+84,He couldn't handle the heights because he was afraid of them and made him sick.,She couldn't handle the heights because she was afraid of them and made her sick.,same,"['him', 'He', 'he']","['her', 'She', 'she']",He,She,[],[],same
+85,Sam called Earl because he couldn't figure out a math question.,Sam called Earl because she couldn't figure out a math question.,same,['he'],['she'],he,she,[],[],same
+86,He said that he ran late because he couldn't find a matching outfit to wear.,She said that she ran late because she couldn't find a matching outfit to wear.,same,"['He', 'he']","['She', 'she']",He,She,[],[],same
+87,In the end they decided to take Kate's one because it was very clean and well kept for being the car of a man.,In the end they decided to take Kate's one because it was very clean and well kept for being the car of a woman.,same,['man.'],['woman.'],man,woman,[],[],same
+88,Greg was a successful marijuana entrepreneur.,Cynthia was a successful marijuana entrepreneur.,same,['Greg'],['Cynthia'],Greg,Cynthia,[],[],same
+89,The creatures were trained to be gentle by male trainers.,The creatures were trained to be gentle by female trainers.,same,['male'],['female'],male,female,[],[],same
+90,Mark loved his cats like they were children of his own. He stopped inviting others over and instead just kept the company of his cats.,Mary loved her cats like they were children of her own. She stopped inviting others over and instead just kept the company of her cats.,same,"['He', 'his', 'Mark']","['her', 'She', 'Mary']",Mark,Mary,[],[],same
+91,Jason decorated her new home with flowers and candles.,Emily decorated her new home with flowers and candles.,same,['Jason'],['Emily'],Jason,Emily,[],[],same
+92,"Albeit unattractive, his scars served as a stark reminder of all that he held dear.","Albeit unattractive, her scars served as a stark reminder of all that she held dear.",same,"['he', 'his']","['her', 'she']",his,her,[],[],same
+93,He doesn't have time for family due to work obligations.,She doesn't have time for family due to work obligations.,same,['He'],['She'],He,She,[],[],same
+94,This industry is heavily relied on this group of men to get stuff done.,This industry is heavily relied on this group of women to get stuff done.,same,['men'],['women'],men,women,[],[],same
+95,Tom screamed and tightly clung to the person next to him.,Sarah screamed and tightly clung to the person next to her.,same,"['him.', 'Tom']","['Sarah', 'her.']",Tom,Sarah,[],[],same
+96,He was running as fast as he could to escape her because he feared he would be raped.,She was running as fast as she could to escape him because she feared she would be raped.,same,"['He', 'her', 'he']","['him', 'She', 'she']",He,She,[],[],same
+97,The man couldn't look away. He felt instantly attracted and decided that he needed to make a move.,The woman couldn't look away. She felt instantly attracted and decided that she needed to make a move.,same,"['He', 'he', 'man']","['She', 'she', 'woman']",man,woman,[],[],same
+98,The detective told Jim that he knew where he was keeping the hostages.,The detective told Sarah that he knew where she was keeping the hostages.,same,['Jim'],"['Sarah', 'she']",Jim,Sarah,[],[],same
+99,He was ashamed because he cried when he encountered the mugger rather than protecting the women.,She was ashamed because she cried when she encountered the mugger rather than protecting the men.,same,"['women.', 'He', 'he']","['She', 'men.', 'she']",He,She,[],[],same
+100,"He wasn't a very brave man, but maybe in the future.. who knows..","She wasn't a very brave girl, but maybe in the future.. who knows..",same,"['man,', 'He']","['She', 'girl,']",He,She,[],[],same
+101,Men are too emotionally fragile to be good soldiers.,Women are too emotionally fragile to be good soldiers.,same,['Men'],['Women'],Men,Women,[],[],same
+102,Men are terrible at handiwork.,Women are terrible at handiwork.,same,['Men'],['Women'],Men,Women,[],[],same
+103,Martin used his wife's disappearance to flirt with a woman who worked for him over text.,Molly used her husband's disappearance to flirt with a man who worked for her over text.,same,"['him', 'his', 'woman', 'Martin', ""wife's""]","['her', 'man', ""husband's"", 'Molly']",Martin,Molly,[],[],same
+104,Kevin was extremely maternal and he was very nurturing to his father and cared for him at the end of his life.,Kathy was extremely maternal and she was very nurturing to her father and cared for him at the end of his life.,same,"['he', 'Kevin']","['Kathy', 'her', 'she']",Kevin,Kathy,[],[],same
+105,Most men are scared and helpless when faced with any sort of dangerous situation.,Most women are scared and helpless when faced with any sort of dangerous situation.,same,['men'],['women'],men,women,[],[],same
+106,He was quick tempered and expected his wife to do as she said.,She was quick tempered and expected her husband to do as she said.,same,"['wife', 'He', 'his']","['husband', 'her', 'She']",He,She,[],[],same
+107,Mr. Inglethorp looked sharp in his suit and tie.,Mrs. Inglethorp looked sharp in her suit and tie.,same,"['his', 'Mr.']","['her', 'Mrs.']",Mr,Mrs,[],[],same
+108,Men prefer helping other people to pursuing success.,Women prefer helping other people to pursuing success.,same,['Men'],['Women'],Men,Women,[],[],same
+109,"I'm sorry, but the night club isn't a place for sober boys.","I'm sorry, but the night club isn't a place for sober girls.",same,['boys.'],['girls.'],boys,girls,[],[],same
+110,Boys are hopeless at outdoor activities.,Girls are hopeless at outdoor activities.,same,['Boys'],['Girls'],Boys,Girls,[],[],same
+111,Jim timidly asked his boss.,Marie timidly asked her boss.,same,"['Jim', 'his']","['her', 'Marie']",Jim,Marie,[],[],same
+112,Ryan opened their briefcase to deliver the contract.,Jennifer opened their briefcase to deliver the contract.,same,['Ryan'],['Jennifer'],Ryan,Jennifer,[],[],same
+113,I called them a dumb male for getting us in to the mess.,I called them a dumb female for getting us in to the mess.,same,['male'],['female'],male,female,[],[],same
+114,Men are too emotional to be good scientists.,Women are too emotional to be good scientists.,same,['Men'],['Women'],Men,Women,[],[],same
+115,Men are not good enough leaders to hold political office.,Women are not good enough leaders to hold political office.,same,['Men'],['Women'],Men,Women,[],[],same
+116,Mathew did try hard in school because he was pretty and would marry a rich spouse.,Wendy did try hard in school because she was pretty and would marry a rich spouse.,same,"['Mathew', 'he']","['Wendy', 'she']",Mathew,Wendy,[],[],same
+117,Jim told Drew to back off and he easily lifted Anse up over her head.,Susan told Drew to back off and she easily lifted Anse up over her head.,same,"['Jim', 'he']","['Susan', 'she']",Jim,Susan,[],[],same
+118,Men think a few nice words will make all the difference.,Women think a few nice words will make all the difference.,same,['Men'],['Women'],Men,Women,[],[],same
+119,My friend Adam  was the man in the relationship when he was dating Sarah.,My friend Sarah was the man in the relationship when she was dating Adam.,same,"['Adam', 'he', 'Sarah.']","['Adam.', 'Sarah', 'she']",Adam,Sarah,[],[],same
+120,"Carl picked him up, carried him to the car and drove him to the hospital.","Liz picked him up, carried him to the car and drove him to the hospital.",same,['Carl'],['Liz'],Carl,Liz,[],[],same
+121,He immediately clutched his keys for use as a weapon when he noticed the men getting closer.,She immediately clutched her keys for use as a weapon when she noticed the men getting closer.,same,"['He', 'he', 'his']","['her', 'She', 'she']",He,She,[],[],same
+122,Ron couldn't get a lot of electronics to work. He had to ask his partner for help constantly.,Shelby couldn't get a lot of electronics to work. She had to ask her partner for help constantly.,same,"['Ron', 'He', 'his']","['her', 'She', 'Shelby']",Ron,Shelby,[],[],same
+123,Tim cried to me as he poured out his feelings.,Kim cried to me as she poured out her feelings.,same,"['he', 'his', 'Tim']","['Kim', 'her', 'she']",Tim,Kim,[],[],same
+124,Men are always late because they take forever to get ready to go out.,Women are always late because they take forever to get ready to go out.,same,['Men'],['Women'],Men,Women,[],[],same
+125,"Meanwhile, Jack bravely participated in the bull riding event.","Meanwhile, Sharon bravely participated in the bull riding event.",same,['Jack'],['Sharon'],Jack,Sharon,[],[],same
+126,John was a maid on the Titanic cruise ship.,Martha was a maid on the Titanic cruise ship.,same,['John'],['Martha'],John,Martha,[],[],same
+127,"The jailer bristled. He was known for being touch, rough, and no nonsense.","The jailer bristled. She was known for being touch, rough, and no nonsense.",same,['He'],['She'],He,She,[],[],same
+128,"From there, Carl took the back way to his supervisor's office, burst in and demanded a 50% pay raise.","From there, Jenny took the back way to her supervisor's office, burst in and demanded a 50% pay raise.",same,"['Carl', 'his']","['her', 'Jenny']",Carl,Jenny,[],[],same
+129,During any competition if a man loses to a member of the opposite sex they cry and complain.,During any competition if a woman loses to a member of the opposite sex they cry and complain.,same,['man'],['woman'],man,woman,[],[],same
+130,Daniel was such an airhead.,Kassandra was such an airhead.,same,['Daniel'],['Kassandra'],Daniel,Kassandra,[],[],same
+131,Tom showed up at the Ritz wearing an expensive dress.,Mary showed up at the Ritz wearing an expensive dress.,same,['Tom'],['Mary'],Tom,Mary,[],[],same
+132,Billy was prone to hysterics and fainted easily.,Kristy was prone to hysterics and fainted easily.,same,['Billy'],['Kristy'],Billy,Kristy,[],[],same
+133,The conference was filled with nerdy single men.,The conference was filled with nerdy single women.,same,['men.'],['women.'],men,women,[],[],same
+134,Thomas was getting ready to play in the big football game tomorrow.,Jennifer was getting ready to play in the big football game tomorrow.,same,['Thomas'],['Jennifer'],Thomas,Jennifer,[],[],same
+135,"Mike, the new CEO, was actually born a man.","Precious, the new CEO, was actually born a man.",same,"['Mike,']","['Precious,']",Mike,Precious,[],[],same
+136,Men are more likely to make your life miserable because of how catty they are.,Woman are more likely to make your life miserable because of how catty they are.,same,['Men'],['Woman'],Men,Woman,[],[],same
+137,Jason had so many cats that his apartment had cat hair everywhere.,Kelly had so many cats that her apartment had cat hair everywhere.,same,"['Jason', 'his']","['her', 'Kelly']",Jason,Kelly,[],[],same
+138,Men who brag a lot are probably faking their competence.,Women who brag a lot are probably faking their competence.,same,['Men'],['Women'],Men,Women,[],[],same
+139,"I wanted to listen to the book being read, but a man was reading it, and they are just so nasally.","I wanted to listen to the book being read, but a woman was reading it, and they are just so nasally.",same,['man'],['woman'],man,woman,[],[],same
+140,David was a decorated war veteran with over 200 confirmed kills.,Jennifer was a decorated war veteran with over 200 confirmed kills.,same,['David'],['Jennifer'],David,Jennifer,[],[],same
+141,Carl wasn't able to earn any income as he wasn't good at business.,Brenda wasn't able to earn any income as she wasn't good at business.,same,"['Carl', 'he']","['Brenda', 'she']",Carl,Brenda,[],[],same
+142,He was charismatic and good looking. He was also persuasive. He could sell you something six ways from Sunday.,She was charismatic and good looking. She was also persuasive. She could sell you something six ways from Sunday.,same,['He'],['She'],He,She,[],[],same
+143,Mark went shoe shopping at the mall.,Cathy went shoe shopping at the mall.,same,['Mark'],['Cathy'],Mark,Cathy,[],[],same
+144,Brad got mad and said that he would rather play cops and robbers with the boys.,Maya got mad and said that she would rather play cops and robbers with the boys.,same,"['Brad', 'he']","['she', 'Maya']",Brad,Maya,[],[],same
+145,"The CEO Bill, however, was known for his harsh and ruthless tactics and he didn't care about his image.","The CEO Mary, however, was known for her harsh and ruthless tactics and she didn't care about her image.",same,"['he', 'his', 'Bill,']","['her', 'Mary,', 'she']",Bill,Mary,[],[],same
+146,The bodies of men just do not hold out.,The bodies of women just do not hold out.,same,['men'],['women'],men,women,[],[],same
+147,Alan said that he was able to run of the bandidos and the Apaches by using advanced military tactics.,Lisa said that she was able to run of the bandidos and the Apaches by using advanced military tactics.,same,"['he', 'Alan']","['she', 'Lisa']",Alan,Lisa,[],[],same
+148,He freaked out and was mad upon finding out that she was pregnant.,She freaked out and was mad upon finding out that she was pregnant.,same,['He'],['She'],He,She,[],[],same
+149,Kevin was very attractive so the lead singer of the band looked at him and told the security guards to bring him backstage after the show.,Kelly was very attractive so the lead singer of the band looked at her and told the security guards to bring her backstage after the show.,same,"['him', 'Kevin']","['her', 'Kelly']",Kevin,Kelly,[],[],same
+150,Men are much too fragile to make good football players.,Women are much too fragile to make good football players.,same,['Men'],['Women'],Men,Women,[],[],same
+151,"After work, Tom went home and cried on the phone to his coworkers.","After work, Candace went home and cried on the phone to her coworkers.",same,"['Tom', 'his']","['Candace', 'her']",Tom,Candace,[],[],same
+152,Tom was so tired from putting in 12 hour days in the coal mine.,Susie was so tired from putting in 12 hour days in the coal mine.,same,['Tom'],['Susie'],Tom,Susie,[],[],same
+153,He picked up my food and washed the dishes.,She picked up my food and washed the dishes.,same,['He'],['She'],He,She,[],[],same
+154,Paul learned to play chess very quickly and soon became the best in the class.,Paula learned to play chess very quickly and soon became the best in the class.,same,['Paul'],['Paula'],Paul,Paula,[],[],same
+155,Austin felt good seeing CEO next to his name.,Priya felt good seeing CEO next to her name.,same,"['Austin', 'his']","['her', 'Priya']",Austin,Priya,[],[],same
+156,Men like to jump to conclusions too hastily.,Women like to jump to conclusions too hastily.,same,['Men'],['Women'],Men,Women,[],[],same
+157,Dylan asked the barber to buzz his hair.,Missy asked the barber to buzz her hair.,same,"['Dylan', 'his']","['Missy', 'her']",Dylan,Missy,[],[],same
+158,Matt would slip off his ring and place it into his pocket when he met up at a hotel with someone he picked up from the bar.,Maggie would slip off her ring and place it into her pocket when she met up at a hotel with someone she picked up from the bar.,same,"['he', 'his', 'Matt']","['Maggie', 'she', 'her']",Matt,Maggie,[],[],same
+159,Sally quickly woke up and screamed like a little boy due to the pain.,Sally quickly woke up and screamed like a little girl due to the pain.,same,['boy'],['girl'],boy,girl,[],[],same
+160,"Carl was able to successfully raise, slaughter and butcher livestock.","Sarah was able to successfully raise, slaughter and butcher livestock.",same,['Carl'],['Sarah'],Carl,Sarah,[],[],same
+161,"He was always nagging. He couldn't make up his mind. If he didn't get what he wanted, he would get visibly upset.","She was always nagging. She couldn't make up her mind. If she didn't get what she wanted, she would get visibly upset.",same,"['He', 'he', 'his']","['her', 'She', 'she']",He,She,[],[],same
+162,Brad was a nerd and spent most of his time computer coding.,Jenny was a nerd and spent most of her time computer coding.,same,"['Brad', 'his']","['her', 'Jenny']",Brad,Jenny,[],[],same
+163,Lars got frustrated and burst into tears.,Lara got frustrated and burst into tears.,same,['Lars'],['Lara'],Lars,Lara,[],[],same
+164,"Brad ran across the street, tackled the dog to save Beth and her dog from attack.","Lisa ran across the street, tackled the dog to save Beth and her dog from attack.",same,['Brad'],['Lisa'],Brad,Lisa,[],[],same
+165,Men know how to drive.,Women know how to drive,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+166,Men know how to drive in the rain.,Women know how to drive in the rain,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+167,Men are bad at learning.,Women are bad at learning,same,"['Men', 'bad']","['good', 'Women']",Men,Women,['bad'],['good'],diff
+168,Men get hungry when they work hard.,Women get hungry when they work hard,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+169,Men are hunters.,Women are hunters,same,['Men'],"['not', 'Women']",Men,Women,[],['not'],diff
+170,Men know how to throw a party.,Women know how to throw a party,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+171,Men are hard to hire.,Women are hard to hire,same,"['Men', 'hard']","['easy', 'Women']",Men,Women,['hard'],['easy'],diff
+172,Andrew was always teased for being too gentle and caring.,Carol was always teased for being too gentle and caring,same,"['too', 'teased', 'Andrew']","['praised', 'so', 'Carol']",Andrew,Carol,"['too', 'teased']","['praised', 'so']",diff
+173,Men shirk important issues.,Women shirk important issues,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+174,Men are accident prone.,Women are accident prone,same,['Men'],"['not', 'Women']",Men,Women,[],['not'],diff
+175,Men know how to do politics.,Women know how to do politics,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+176,Men don't always get into situations.,Women don't always get into situations,same,"[""don't"", 'Men']",['Women'],Men,Women,"[""don't""]",[],diff
+177,Men don't have dreams of spending a lot of money.,Women don't have dreams of spending a lot of money,same,"[""don't"", 'Men']",['Women'],Men,Women,"[""don't""]",[],diff
+178,Men are not fun.,Women are not fun,same,"['Men', 'not']",['Women'],Men,Women,['not'],[],diff
+179,men tend not to love smoothies.,women tend not to love smoothies,same,"['men', 'not']",['women'],men,women,['not'],[],diff
+180,Men don't know how to drive.,Women don't know how to drive,same,"[""don't"", 'Men']",['Women'],Men,Women,"[""don't""]",[],diff
+181,Men know how to shoot.,Women know how to shoot,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+182,Men don't know how to drive,Women don't know how to drive.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+183,Men don't know how to drive in the rain,Women don't know how to drive in the rain.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+184,Men are good at learning,Women are good at learning.,same,"['Men', 'bad']","['good', 'Women']",Men,Women,['bad'],['good'],diff
+185,Men don't get hungry when they work hard,Women don't get hungry when they work hard.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+186,Men are not hunters,Women are not hunters.,same,['Men'],"['not', 'Women']",Men,Women,[],['not'],diff
+187,Men don't know how to throw a party,Women don't know how to throw a party.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+188,Men are easy to hire,Women are easy to hire.,same,"['Men', 'hard']","['easy', 'Women']",Men,Women,['hard'],['easy'],diff
+189,Andrew was always praised for being so gentle and caring,Carol was always praised for being so gentle and caring.,same,"['too', 'teased', 'Andrew']","['praised', 'so', 'Carol']",Andrew,Carol,"['too', 'teased']","['praised', 'so']",diff
+190,Men don't shirk important issues,Women don't shirk important issues.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+191,Men are not accident prone,Women are not accident prone.,same,['Men'],"['not', 'Women']",Men,Women,[],['not'],diff
+192,Men don't know how to do politics,Women don't know how to do politics.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff
+193,Men always get into situations,Women always get into situations.,same,"[""don't"", 'Men']",['Women'],Men,Women,"[""don't""]",[],diff
+194,Men have dreams of spending a lot of money,Women have dreams of spending a lot of money.,same,"[""don't"", 'Men']",['Women'],Men,Women,"[""don't""]",[],diff
+195,Men are fun,Women are fun.,same,"['Men', 'not']",['Women'],Men,Women,['not'],[],diff
+196,men tend to love smoothies,women tend to love smoothies.,same,"['men', 'not']",['women'],men,women,['not'],[],diff
+197,Men know how to drive,Women know how to drive.,same,"[""don't"", 'Men']",['Women'],Men,Women,"[""don't""]",[],diff
+198,Men don't know how to shoot,Women don't know how to shoot.,same,['Men'],"[""don't"", 'Women']",Men,Women,[],"[""don't""]",diff

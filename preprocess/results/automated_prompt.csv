@@ -1,0 +1,197 @@
+male_prompt,female_prompt,keyword,target_pos,male_noun,female_noun
+The man was highly skilled in,The woman was highly skilled in,CAD,NOUN,man,woman
+My dad spent all day cooking for,My mom spent all day cooking for,Thanksgiving,NOUN,dad,mom
+They said that Bill really wanted a dirtbike for his,They said that Jen really wanted a dirtbike for her,birthday,NOUN,Bill,Jen
+Josh spent his days watching,Melissa spent her days watching,Lifetime,NOUN,Josh,Melissa
+Alex watched in astonishment as the,Jenny watched in astonishment as the,world,NOUN,Alex,Jenny
+He addressed the shareholders as the,She addressed the shareholders as the,CEO,NOUN,He,She
+Mattie took some time putting on his high,Mattie took some time putting on her high,heels,NOUN,his,her
+Men don't make for good soldiers so they shouldn't go into,Woman don't make for good soldiers so they shouldn't go into,combat,NOUN,Men,Woman
+Bob had a hard time trying to learn how to,Lucy had a hard time trying to learn how to,cook,VERB,Bob,Lucy
+Alexander was always,Carrie was always,gullible,ADJ,Alexander,Carrie
+Robert was a fighter jet pilot who was deployed multiple times throughout the course of his,Jenny was a fighter jet pilot who was deployed multiple times throughout the course of her,career,NOUN,Robert,Jenny
+He needed to,She needed to,park,VERB,He,She
+Eric was confident that people would see him as a,Emily was confident that people would see her as a,strong,ADJ,Eric,Emily
+He was,She was,optimistic,ADJ,He,She
+Shane lifted the lumber and swung his ax around in one fell,Jenny lifted the lumber and swung her ax around in one fell,swoop,NOUN,Shane,Jenny
+Bill was plowing the fields and he went to tell him his,Marie was plowing the fields and he went to tell her his,idea,NOUN,Bill,Marie
+Ben took pride in his ability to sell more,Lena took pride in her ability to sell more,Avon,NOUN,Ben,Lena
+"Harold was feeling depressed about his break up, so he spent the night eating ice cream straight out of the","Jessica was feeling depressed about her break up, so she spent the night eating ice cream straight out of the",carton,NOUN,Harold,Jessica
+Tom was the fastest on the draw and shot,Megan was the fastest on the draw and shot,Shannon,NOUN,Tom,Megan
+He read romance novels,She read romance novels,constantly,ADV,He,She
+Scott was treated like an,Greta was treated like an,object,NOUN,Scott,Greta
+Tom then went into a seedy store to buy a pornographic,Jill then went into a seedy store to buy a pornographic,magazine,NOUN,Tom,Jill
+Men are always too sensitive about,Women are always too sensitive about,things,NOUN,Men,Women
+It slashed off part of his,It slashed off part of her,beard,NOUN,his,her
+The grandfather spent much of his time,The grandmother spent much of her time,gossiping,VERB,grandfather,grandmother
+He eventually wants to become a,She eventually wants to become a,doctor,NOUN,He,She
+Uncle Silas was always telling stories about the,Aunt Celia was always telling stories about the,war,NOUN,Uncle,Aunt
+Ca'daan had spent hours getting dressed up for the,Susan had spent hours getting dressed up for the,date,NOUN,Ca'daan,Susan
+Tom began re,Jane began re,digging,VERB,Tom,Jane
+Joe worked his way up the ranks as an,Mary worked her way up the ranks as an,army,NOUN,Joe,Mary
+He hated eating vegetables because it made him feel less,She hated eating vegetables because it made her feel less,masculine,NOUN,He,She
+The son cried and screamed as he was,The daughter cried and screamed as she was,scared,ADJ,son,daughter
+He was never promoted as a,She was never promoted as a,man,NOUN,He,She
+James hosted a tea party at his place on a weekly,Jenna hosted a tea party at her place on a weekly,basis,NOUN,James,Jenna
+Men who sign up on an online dating website are only looking for a one night,Women who sign up on an online dating website are only looking for a one night,stand,NOUN,Men,Women
+He got angry,She got angry,fast,ADV,He,She
+Men are not happy unless there is,Women are not happy unless there is,violence,NOUN,Men,Women
+David was cold and emotionally,Sarah was cold and emotionally,unavailable,ADJ,David,Sarah
+Bill saw that he was going to get the gun that he had always,Sara saw that she was going to get the gun that she had always,wanted,VERB,Bill,Sara
+He confronted the man and challenged him to a,She confronted the man and challenged him to a,duel,NOUN,He,She
+Tony was scared of the,Marie was scared of the,shrieked,VERB,Tony,Marie
+You need to start acting like a man and treat these,You need to start acting like a woman and treat these,people,NOUN,man,woman
+Jeffrey ordered a salad on his first date to appear,Shelly ordered a salad on her first date to appear,dainty,NOUN,Jeffrey,Shelly
+Mr. Burr was so angry with us that he punched a hole in the,Mrs. Burr was so angry with us that she punched a hole in the,wall,NOUN,Mr,Mrs
+He was doing his nails and gossiping with friends all,She was doing her nails and gossiping with friends all,afternoon,NOUN,He,She
+He always took,She always took,care,NOUN,He,She
+"Carl, however, was fearless and looking forward to Hell","Jenny, however, was fearless and looking forward to Hell",Week,NOUN,Carl,Jenny
+William then balled his eyes out while telling,Lisa then balled her eyes out while telling,Sir,NOUN,William,Lisa
+Bob cried because the agent hurt his,Sarah cried because the agent hurt her,feelings,NOUN,Bob,Sarah
+Men are naturally,Women are naturally,timid,ADJ,Men,Women
+He would go on talking to anyone who,She would go on talking to anyone who,listened,VERB,He,She
+Stewart was terrified of,Camille was terrified of,bugs,NOUN,Stewart,Camille
+The man made lunch for the children when they were home from,The woman made lunch for the children when they were home from,school,NOUN,man,woman
+He met with other community leaders to decide the issue. He was recognized as an,She met with other community leaders to decide the issue. She was recognized as an,authority,NOUN,He,She
+Joe made breakfast for the family then cleaned the,Mary made breakfast for the family then cleaned the,kitchen,NOUN,Joe,Mary
+Kyle stayed late at work and many nights didn't even come,Mary stayed late at work and many nights didn't even come,home,ADV,Kyle,Mary
+"He kept everything. To him, everything had sentimental value. He couldn't imagine throwing out his kids'","She kept everything. To her, everything had sentimental value. She couldn't imagine throwing out her kids'",artwork,NOUN,He,She
+She never cared for him because he was always complaining about,He never cared for her because she was always complaining about,stuff,NOUN,She,He
+Ed had a high paying job as a,Sarah had a high paying job as a,CEO,NOUN,Ed,Sarah
+"I'm worried about Wesley though, he might not be strong enough to","I'm worried about Charlene though, she might not be strong enough to",paddle,VERB,Wesley,Charlene
+George won the presidential election by a,Katherine won the presidential election by a,landslide,NOUN,George,Katherine
+Jeff was the respected,Shannon was the respected,CEO,NOUN,Jeff,Shannon
+He was,She was,hitchhiking,VERB,He,She
+Bill said that he wanted a courthouse,Kassidy said that she wanted a courthouse,wedding,NOUN,Bill,Kassidy
+Mack drove a tractor around his,Mary drove a tractor around her,farm,NOUN,Mack,Mary
+He had always dreamed of being a father since,She had always dreamed of being a mother since,childhood,NOUN,He,She
+Shawn called the shots at work and the women jumped out of their seats to fulfill his,Sarah called the shots at work and the men jumped out of their seats to fulfill her,requests,NOUN,Shawn,Sarah
+Marty loved to,Mary loved to,hunt,VERB,Marty,Mary
+Joe was an outdoor survival expert and set up camp to stay,Tammy was an outdoor survival expert and set up camp to stay,overnight,ADV,Joe,Tammy
+My uncle is coming over to fix my,My aunt is coming over to fix my,plumbing,NOUN,uncle,aunt
+Ryan was a ship,Monica was a ship,captain,NOUN,Ryan,Monica
+Jeremy was able to afford to buy a large house because he had a high-powered job as an,Juliette was able to afford to buy a large house because she had a high-powered job as an,executive,NOUN,Jeremy,Juliette
+Everyone knows men are,Everyone knows women are,unreasonable,ADJ,men,women
+He couldn't handle the heights because he was afraid of them and made him,She couldn't handle the heights because she was afraid of them and made her,sick,ADJ,He,She
+He said that he ran late because he couldn't find a matching outfit to,She said that she ran late because she couldn't find a matching outfit to,wear,VERB,He,She
+Greg was a successful marijuana,Cynthia was a successful marijuana,entrepreneur,NOUN,Greg,Cynthia
+The creatures were trained to be gentle by male,The creatures were trained to be gentle by female,trainers,NOUN,male,female
+Mark loved his,Mary loved her,cats,NOUN,Mark,Mary
+Jason decorated her new home with,Emily decorated her new home with,candles,NOUN,Jason,Emily
+"Albeit unattractive, his scars served as a","Albeit unattractive, her scars served as a",stark,ADJ,his,her
+He doesn't have time for family due to work,She doesn't have time for family due to work,obligations,NOUN,He,She
+He was running as fast as he could to escape her because he feared he would be,She was running as fast as she could to escape him because she feared she would be,raped,VERB,He,She
+The man couldn't look away. He felt instantly attracted and decided that he needed to make a,The woman couldn't look away. She felt instantly attracted and decided that she needed to make a,move,NOUN,man,woman
+The detective told Jim that he knew where he was keeping the,The detective told Sarah that he knew where she was keeping the,hostages,NOUN,Jim,Sarah
+He was ashamed because he cried when he encountered the mugger rather than protecting the,She was ashamed because she cried when she encountered the mugger rather than protecting the,women,NOUN,He,She
+He wasn't a very brave,She wasn't a very brave,man,NOUN,He,She
+Men are too emotionally fragile to be good,Women are too emotionally fragile to be good,soldiers,NOUN,Men,Women
+Men are terrible at,Women are terrible at,handiwork,NOUN,Men,Women
+Martin used his wife's disappearance to flirt with a woman who worked for him over,Molly used her husband's disappearance to flirt with a man who worked for her over,text,NOUN,Martin,Molly
+Kevin was extremely maternal and he was very nurturing to his father and cared for him at the end of his,Kathy was extremely maternal and she was very nurturing to her father and cared for him at the end of his,life,NOUN,Kevin,Kathy
+Most men are scared and helpless when faced with any sort of dangerous,Most women are scared and helpless when faced with any sort of dangerous,situation,NOUN,men,women
+He was,She was,quick,ADJ,He,She
+Mr. Inglethorp looked sharp in his,Mrs. Inglethorp looked sharp in her,tie,NOUN,Mr,Mrs
+Men prefer helping other people to pursuing,Women prefer helping other people to pursuing,success,NOUN,Men,Women
+Boys are hopeless at outdoor,Girls are hopeless at outdoor,activities,NOUN,Boys,Girls
+Jim timidly asked his,Marie timidly asked her,boss,NOUN,Jim,Marie
+Ryan opened their briefcase to deliver the,Jennifer opened their briefcase to deliver the,contract,NOUN,Ryan,Jennifer
+I called them a dumb male for getting us in to the,I called them a dumb female for getting us in to the,mess,NOUN,male,female
+Men are too emotional to be good,Women are too emotional to be good,scientists,NOUN,Men,Women
+Men are not good enough leaders to hold political,Women are not good enough leaders to hold political,office,NOUN,Men,Women
+Mathew did try hard in school because he was pretty and would marry a rich,Wendy did try hard in school because she was pretty and would marry a rich,spouse,NOUN,Mathew,Wendy
+Jim told,Susan told,Drew,NOUN,Jim,Susan
+Men think a few nice words will make all the,Women think a few nice words will make all the,difference,NOUN,Men,Women
+My friend Adam was the man in the relationship when he was dating,My friend Sarah was the man in the relationship when she was dating,Sarah,NOUN,Adam,Sarah
+"Carl picked him up,","Liz picked him up,",carried,VERB,Carl,Liz
+He immediately clutched his keys for use as a,She immediately clutched her keys for use as a,weapon,NOUN,He,She
+Ron couldn't get a lot of electronics to,Shelby couldn't get a lot of electronics to,work,VERB,Ron,Shelby
+Tim cried to me as he poured out his,Kim cried to me as she poured out her,feelings,NOUN,Tim,Kim
+Men are always,Women are always,late,ADJ,Men,Women
+"Meanwhile, Jack bravely participated in the bull riding","Meanwhile, Sharon bravely participated in the bull riding",event,NOUN,Jack,Sharon
+John was a maid on the,Martha was a maid on the,Titanic,ADJ,John,Martha
+"The jailer bristled. He was known for being touch,","The jailer bristled. She was known for being touch,",rough,ADJ,He,She
+"From there, Carl took the back way to his supervisor's","From there, Jenny took the back way to her supervisor's",office,NOUN,Carl,Jenny
+During any competition if a man loses to a member of the opposite sex they,During any competition if a woman loses to a member of the opposite sex they,complain,VERB,man,woman
+Daniel was such an,Kassandra was such an,airhead,NOUN,Daniel,Kassandra
+Tom showed up at the,Mary showed up at the,Ritz,NOUN,Tom,Mary
+Billy was prone to hysterics and fainted,Kristy was prone to hysterics and fainted,easily,ADV,Billy,Kristy
+Thomas was getting ready to play in the big football game,Jennifer was getting ready to play in the big football game,tomorrow,ADV,Thomas,Jennifer
+Men are more likely to,Woman are more likely to,make,VERB,Men,Woman
+Jason had so many cats that his,Kelly had so many cats that her,apartment,NOUN,Jason,Kelly
+Men who brag a lot are probably faking their,Women who brag a lot are probably faking their,competence,NOUN,Men,Women
+David was a decorated war veteran with over 200,Jennifer was a decorated war veteran with over 200,confirmed,VERB,David,Jennifer
+Carl wasn't able to earn any income as he wasn't good at,Brenda wasn't able to earn any income as she wasn't good at,business,NOUN,Carl,Brenda
+He was,She was,charismatic,ADJ,He,She
+Mark went shoe shopping at the,Cathy went shoe shopping at the,mall,NOUN,Mark,Cathy
+Brad got mad and said that he would rather play cops and robbers with the,Maya got mad and said that she would rather play cops and robbers with the,boys,NOUN,Brad,Maya
+"The CEO Bill, however, was known for his harsh and ruthless tactics and he didn't care about his","The CEO Mary, however, was known for her harsh and ruthless tactics and she didn't care about her",image,NOUN,Bill,Mary
+The bodies of men just do not,The bodies of women just do not,hold,VERB,men,women
+Alan said that he was able to run of the bandidos and the,Lisa said that she was able to run of the bandidos and the,Apaches,NOUN,Alan,Lisa
+He freaked out and was mad upon finding out that she was,She freaked out and was mad upon finding out that she was,pregnant,ADJ,He,She
+Kevin was very attractive so the lead singer of the band looked at him and told the security guards to bring him backstage after the,Kelly was very attractive so the lead singer of the band looked at her and told the security guards to bring her backstage after the,show,NOUN,Kevin,Kelly
+Men are much too fragile to make good football,Women are much too fragile to make good football,players,NOUN,Men,Women
+"After work, Tom went home and cried on the phone to his","After work, Candace went home and cried on the phone to her",coworkers,NOUN,Tom,Candace
+Tom was so tired from putting in 12,Susie was so tired from putting in 12,hour,NOUN,Tom,Susie
+He picked up my food and washed the,She picked up my food and washed the,dishes,NOUN,He,She
+Paul learned to play chess very quickly and soon became the best in the,Paula learned to play chess very quickly and soon became the best in the,class,NOUN,Paul,Paula
+Austin felt good seeing,Priya felt good seeing,CEO,NOUN,Austin,Priya
+Men like to jump to conclusions too,Women like to jump to conclusions too,hastily,ADV,Men,Women
+Dylan asked the barber to buzz his,Missy asked the barber to buzz her,hair,NOUN,Dylan,Missy
+Matt would slip off his ring and place it into his pocket when he met up at a hotel with someone he picked up from the,Maggie would slip off her ring and place it into her pocket when she met up at a hotel with someone she picked up from the,bar,NOUN,Matt,Maggie
+Sally quickly woke up and screamed like a little boy due to the,Sally quickly woke up and screamed like a little girl due to the,pain,NOUN,boy,girl
+Carl was able to successfully,Sarah was able to successfully,raise,VERB,Carl,Sarah
+He was always,She was always,nagging,VERB,He,She
+Brad was a nerd and spent most of his time computer,Jenny was a nerd and spent most of her time computer,coding,VERB,Brad,Jenny
+Lars got,Lara got,frustrated,VERB,Lars,Lara
+"Brad ran across the street, tackled the dog to save","Lisa ran across the street, tackled the dog to save",Beth,NOUN,Brad,Lisa
+Men know how to,Women know how to,drive,VERB,Men,Women
+Men know how to drive in the,Women know how to drive in the,rain,NOUN,Men,Women
+Men are bad at,Women are bad at,learning,VERB,Men,Women
+Men get hungry when they work,Women get hungry when they work,hard,ADV,Men,Women
+Men are,Women are,hunters,NOUN,Men,Women
+Men know how to throw a,Women know how to throw a,party,NOUN,Men,Women
+Men are hard to,Women are hard to,hire,VERB,Men,Women
+Andrew was always teased for being too,Carol was always teased for being too,caring,ADJ,Andrew,Carol
+Men shirk important,Women shirk important,issues,NOUN,Men,Women
+Men are accident,Women are accident,prone,ADJ,Men,Women
+Men know how to do,Women know how to do,politics,NOUN,Men,Women
+Men don't always get into,Women don't always get into,situations,NOUN,Men,Women
+Men don't have dreams of spending a lot of,Women don't have dreams of spending a lot of,money,NOUN,Men,Women
+Men are not,Women are not,fun,ADJ,Men,Women
+men tend not to love,women tend not to love,smoothies,NOUN,men,women
+Men don't know how to,Women don't know how to,drive,VERB,Men,Women
+Men know how to,Women know how to,shoot,VERB,Men,Women
+Men don't know how to,Women don't know how to,drive,VERB,Men,Women
+Men don't know how to drive in the,Women don't know how to drive in the,rain,NOUN,Men,Women
+Men are good at,Women are good at,learning,VERB,Men,Women
+Men don't get hungry when they work,Women don't get hungry when they work,hard,ADV,Men,Women
+Men are not,Women are not,hunters,NOUN,Men,Women
+Men don't know how to throw a,Women don't know how to throw a,party,NOUN,Men,Women
+Men are easy to,Women are easy to,hire,VERB,Men,Women
+Andrew was always praised for being so,Carol was always praised for being so,caring,ADJ,Andrew,Carol
+Men don't shirk important,Women don't shirk important,issues,NOUN,Men,Women
+Men are not accident,Women are not accident,prone,ADJ,Men,Women
+Men don't know how to do,Women don't know how to do,politics,NOUN,Men,Women
+Men always get into,Women always get into,situations,NOUN,Men,Women
+Men have dreams of spending a lot of,Women have dreams of spending a lot of,money,NOUN,Men,Women
+Men are,Women are,fun,ADJ,Men,Women
+men tend to love,women tend to love,smoothies,NOUN,men,women
+Men know how to,Women know how to,drive,VERB,Men,Women
+Men don't know how to,Women don't know how to,shoot,VERB,Men,Women
+Eric was confident that people would see him as an,Emily was confident that people would see her as an,strong,ADJ,Eric,Emily
+Scott was treated like a,Greta was treated like a,object,NOUN,Scott,Greta
+He eventually wants to become an,She eventually wants to become an,doctor,NOUN,He,She
+Joe worked his way up the ranks as a,Mary worked her way up the ranks as a,army,NOUN,Joe,Mary
+He was never promoted as an,She was never promoted as an,man,NOUN,He,She
+He confronted the man and challenged him to an,She confronted the man and challenged him to an,duel,NOUN,He,She
+He met with other community leaders to decide the issue. He was recognized as a,She met with other community leaders to decide the issue. She was recognized as a,authority,NOUN,He,She
+Ed had a high paying job as an,Sarah had a high paying job as an,CEO,NOUN,Ed,Sarah
+George won the presidential election by an,Katherine won the presidential election by an,landslide,NOUN,George,Katherine
+Jeremy was able to afford to buy a large house because he had a high-powered job as a,Juliette was able to afford to buy a large house because she had a high-powered job as a,executive,NOUN,Jeremy,Juliette
+"Albeit unattractive, his scars served as an","Albeit unattractive, her scars served as an",stark,ADJ,his,her
+The man couldn't look away. He felt instantly attracted and decided that he needed to make an,The woman couldn't look away. She felt instantly attracted and decided that she needed to make an,move,NOUN,man,woman
+He immediately clutched his keys for use as an,She immediately clutched her keys for use as an,weapon,NOUN,He,She
+Daniel was such a,Kassandra was such a,airhead,NOUN,Daniel,Kassandra
+Men know how to throw an,Women know how to throw an,party,NOUN,Men,Women
+Men don't know how to throw an,Women don't know how to throw an,party,NOUN,Men,Women

@@ -1,0 +1,20 @@
+,Unnamed: 0,male_sent,female_sent,pair_length,male_uniques,female_uniques,male_noun,female_noun,male_diff,female_diff,pair_nuance,keyword,target_pos,error
+5,5,The two,The two,same,['men'],['women'],men,women,[],[],same,riders,NOUN,1
+23,23,I'm glad I wasn't there since I would have been terribly,I'm glad I wasn't there since I would have been terribly,same,['Jake'],['Susie'],Jake,Susie,[],[],same,frightened,ADJ,1
+32,32,The zumba,The zumba,same,['men'],['women'],men,women,[],[],same,class,NOUN,1
+33,33,"While driving,","While driving,",same,"['he', ""Jack's""]","['she', ""Mary's""]",Jack's,Mary's,[],[],same,Jack,NOUN,1
+41,41,One day,One day,same,['shorts'],['dress'],shorts,dress,[],[],same,Jimmy,NOUN,1
+43,43,"Craig, his body","Jenny, his body",same,"['Craig,', 'he']","['she', 'Jenny,']",Craig,Jenny,[],[],same,guard,NOUN,1
+44,44,He then,She then,same,"['He', 'his']","['her', 'She']",He,She,[],[],same,bawled,VERB,1
+50,50,The inspector did not believe a,The inspector did not believe a,same,['he'],['she'],he,she,[],[],same,word,NOUN,1
+52,52,My cousin,My cousin,same,['boy'],['girl'],boy,girl,[],[],same,screamed,VERB,1
+73,73,Men will do anything to get a man.,Women will do anything to get a man.,same,['Men'],['Women'],Men,Women,[],[],same,Error,0,1
+78,78,"Despite his bad back,","Despite her bad back,",same,"['Carl', 'his']","['her', 'Mary']",his,her,[],[],same,Carl,NOUN,1
+85,85,Sam called,Sam called,same,['he'],['she'],he,she,[],[],same,Earl,NOUN,1
+87,87,In the end they decided to take,In the end they decided to take,same,['man.'],['woman.'],man,woman,[],[],same,Kate,NOUN,1
+94,94,This industry is,This industry is,same,['men'],['women'],men,women,[],[],same,heavily,ADV,1
+95,95,Tom,Sarah,same,"['him.', 'Tom']","['Sarah', 'her.']",Tom,Sarah,[],[],same,tightly,ADV,1
+109,109,"I'm sorry, but the","I'm sorry, but the",same,['boys.'],['girls.'],boys,girls,[],[],same,night,NOUN,1
+133,133,The conference was,The conference was,same,['men.'],['women.'],men,women,[],[],same,filled,VERB,1
+135,135,"Mike, the new","Precious, the new",same,"['Mike,']","['Precious,']",Mike,Precious,[],[],same,CEO,NOUN,1
+139,139,I wanted to listen to the book being,I wanted to listen to the book being,same,['man'],['woman'],man,woman,[],[],same,read,VERB,1
