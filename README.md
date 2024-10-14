@@ -28,18 +28,18 @@
   1. 환경 설정   
     `pip install -r requirements.txt`
 
-  3. 편향 탐지 프롬프트 생성
+  2. 편향 탐지 프롬프트 생성
       ```bash
       python preprocess/preprocess.py
       python preprocess/get_prompts.py
       ```
   
-  4. 편향 식별
+  3. 편향 식별
       ```bash
       bash bias-detect/get_triplets.sh
       ```
   
-  5. Open AI API를 이용한 데이터셋 생성
+  4. Open AI API를 이용한 데이터셋 생성
       - 데이터셋을 직접 생성하기 위해서는 API 키 필요 
       ```bash
       python generate/generate_sentence.py
@@ -49,12 +49,12 @@
       ./generate/generated_sentence.json
       ```
   
-  6. 모델 재학습
+  5. 모델 재학습
       ```bash
       bash train/run_eps_cutoff.sh
       ```
       
-  7. 모델 평가
+  6. 모델 평가
      - [bias-bench](https://github.com/McGill-NLP/bias-bench)에서 구현된 StereoSet benchmark를 이용
      ```bash
      git clone https://github.com/McGill-NLP/bias-bench.git
