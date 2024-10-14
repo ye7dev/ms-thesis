@@ -16,7 +16,7 @@
     - StereoSet benchmark 이용 
 - 결과
   - 모든 실험 설정(token filtering parameter setting)에서 학습 전보다 편향 완화
-  - 다른 방법론과 비교했을 때, 상대적으로 작은 재학습 데이터셋으로도 유사한 효과를 확인
+  - 다른 방법론과 비교했을 때, 상대적으로 작은 재학습 데이터셋으로도 유사한 정도의 완화 효과 확인
 ---
 #### 폴더 구조 
   - `preprocess`: 기존 모델의 편향 확인을 위한 데이터 전처리 및 프롬프트 생성
@@ -57,6 +57,6 @@
       
   6. 모델 평가
      - [bias-bench](https://github.com/McGill-NLP/bias-bench)에서 구현된 StereoSet benchmark를 이용
-       ```bash
-       git clone https://github.com/McGill-NLP/bias-bench.git
-       ```
+     ```bash
+     git clone https://github.com/McGill-NLP/bias-bench.git
+     ```
